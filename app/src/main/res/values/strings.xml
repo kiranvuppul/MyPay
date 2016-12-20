@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MyPay</string>
+
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="title_vending_machine">Vending Machines</string>
+    <string name="title_settings">Settings</string>
+
+    <string name="menu_refresh">Refresh</string>
+
+    <string name="vm_fixed">FIXED</string>
+    <string name="vm_random">RANDOM</string>
+
+    <string name="list_tag_1">list_tag_1</string>
+
+    <string name="vm_average_ss">Average Signal Strength: </string>
+    <string name="vm_average">Average : </string>
+    <string name="vm_ss_1">Signal 1: </string>
+    <string name="vm_ss_2">Signal 2: </string>
+    <string name="vm_ss_3">Signal 3: </string>
+
+    <!-- Get list of vending machines -->
+    <array name="vending_machines">
+        <item>@drawable/coke</item>
+        <item>@drawable/pepsi</item>
+        <item>@drawable/snack</item>
+        <item>@drawable/water</item>
+        <item>@drawable/nescafe</item>
+    </array>
+
+    <!-- Get List of slide menu options -->
+    <string-array name="slide_menu_options">
+        <item >Vending Machines</item>
+        <item >Settings</item>
+    </string-array>
+
+    <!-- Get list of VM Names -->
+    <string-array name="vm_machines_names">
+        <item >Coca Cola</item>
+        <item >Pepsi</item>
+        <item >Water</item>
+        <item >Fanta</item>
+        <item >Monster</item>
+    </string-array>
+
+
+    <!-- Warning msg for no network -->
+    <string name="warning_no_network">Oops!! No Network Available.\n Check your Connectivity !</string>
+
+    <!-- Info msg while updating signal strength -->
+    <string name="info_update_signal_strength">Please Wait.\nUpdating Signal Strength for Vending Machines</string>
+
+    <!-- Error message when network lost -->
+    <string name="error_network_error">Warning!!! Network Error.</string>
+
+
+
+</resources>

@@ -1,0 +1,21 @@
+<resources>
+
+    <!-- Theme for Splash Screen -->
+    <style name="splashScreenTheme" parent="Theme.AppCompat.Light.NoActionBar">
+    </style>
+
+    <style name="EasyPayMaterialTheme" parent="EasyPayMaterialTheme.Base">
+    </style>
+
+    <!-- Theme with Material desing -->
+    <style name="EasyPayMaterialTheme.Base" parent="Theme.AppCompat.NoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="windowActionBar">false</item>
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="android:textColorPrimary">@color/textColorPrimary</item>
+        <item name="android:windowBackground">@color/windowBackground</item>
+    </style>
+
+</resources>

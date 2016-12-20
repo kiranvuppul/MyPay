@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="colorDark">#212121</color>
+
+    <color name="frag_bg_color">#FF33B5E5</color>
+    <color name="frag_bg_color_white">#FFFFFF</color>
+    <color name="bg_text_white">#FFFFFF</color>
+
+    <color name="colorPrimary">#00bcd4</color>
+    <color name="colorPrimaryDark">#00acc1</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#FFFFFF</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="colorAccent">#4dd0e1</color>
+
+</resources>
